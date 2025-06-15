@@ -1,0 +1,10 @@
+Dataset,Model,RMSE,MAE,R-squared
+Original,Linear Regression,542.75,149.03,0.4594
+Original,k-NN Regression,522.24,46.66,0.4995
+Original,Neural Network,533.1,127.46,0.4784
+Removed Outliers,Linear Regression,30.16,22.39,0.4437
+Removed Outliers,k-NN Regression,12.87,8.14,0.8987
+Removed Outliers,Neural Network,37.75,18.82,0.1287
+Capped Outliers,Linear Regression,46.71,33.13,0.5948
+Capped Outliers,k-NN Regression,22.18,11.93,0.9086
+Capped Outliers,Neural Network,37.43,24.83,0.7398
