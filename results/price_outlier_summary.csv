@@ -1,0 +1,2 @@
+Feature,Total Records,Q1 (25th Percentile),Q3 (75th Percentile),IQR,Lower Threshold,Upper Threshold,Outliers Detected,Outlier Percentage,Records Remaining
+TARGET(PRICE_IN_LACS),29451,38.0,100.0,62.0,-55.0,193.0,3084,10.47,26367

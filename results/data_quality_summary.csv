@@ -1,0 +1,2 @@
+Dataset,Rows,Columns,Total Cells,Missing Cells,Missing %,Complete Rows,Complete %,Duplicate Rows,Duplicate %,Numerical Features,Categorical Features,Memory Usage (MB),Unique Rows,Data Density %
+House Prices Dataset,29451,11,323961,0,0.0,29451,100.0,457,1.55,9,2,7.64,28994,100.0

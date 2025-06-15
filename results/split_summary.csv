@@ -1,0 +1,4 @@
+Dataset,Train Size,Test Size
+Original,23560,5891
+Removed Outliers,21093,5274
+Capped Outliers,23560,5891
