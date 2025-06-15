@@ -1,4 +1,0 @@
-Dataset,Records,Min Price,Max Price,Mean Price,Std Dev
-Original,29451,0.25,30000.0,142.9,656.88
-Outliers Removed,26367,0.25,190.0,66.15,40.53
-Outliers Capped,29451,19.5,300.0,87.7,73.9

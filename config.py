@@ -7,6 +7,7 @@ RAW_DATA_DIR: str = DATA_DIR / 'raw'
 PROCESSED_DATA_DIR: str = DATA_DIR / 'processed'
 RESULTS_DIR: str = BASE_DIR / 'results'
 NOTEBOOKS_DIR: str = BASE_DIR / 'notebooks'
+MODELS_DIR: str = BASE_DIR / 'models'
 
 # Define file paths
 RAW_DATA_FILE: str = RAW_DATA_DIR / 'house_prices.csv'
