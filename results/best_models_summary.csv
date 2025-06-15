@@ -1,0 +1,4 @@
+Dataset,Best RMSE Model,Best MAE Model,Best R² Model
+Capped Outliers,k-NN Regression (22.18),k-NN Regression (11.93),k-NN Regression (0.9086)
+Original,k-NN Regression (522.24),k-NN Regression (46.66),k-NN Regression (0.4995)
+Removed Outliers,k-NN Regression (12.87),k-NN Regression (8.14),k-NN Regression (0.8987)
